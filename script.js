@@ -1,6 +1,6 @@
 const paginas = [
     "carlo",
-    "muestra"
+    "gucopagina"
 ];
 
 const rutaActual = window.location.pathname;
